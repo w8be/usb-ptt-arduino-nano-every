@@ -14,4 +14,3 @@ delay(10);
   }
    PTT_Old_State = PTT_State;
  }
-} 
