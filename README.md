@@ -5,3 +5,4 @@
 # sketch port speed is set to 9600.  
 # SmartSDR CAT port is configured USB Serial, 9600 baud, 9-N-1 with Hardware flow control.
 # Use the log feature in SmartSDR CAT to debug any errors.   
+# dax-off ino is template to add DAX Off CAT Command
