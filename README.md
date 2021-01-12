@@ -8,3 +8,4 @@ Credit to VE2OLM for developing the 1st instance of using an Arduino Nano to sen
 * SmartSDR CAT port is configured USB Serial, 9600 baud, 9-N-1 with Hardware flow control.
 * Use the log feature in SmartSDR CAT to debug any errors.   
 * dax-off ino is template to add DAX Off CAT Command
+* Create a SmartCAT Serial Existing comm port for the USB foot switch.  You can use the log function on SmartCAT to see the communication or use Putty serial connection to test. 
