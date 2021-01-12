@@ -11,18 +11,18 @@ Serial.begin(9600);  // set baud rate for usb port
 delay(100);
 }
 
-void loop(){  // main code to run with DAX Off command
- if(PTT_State != PTT_Old_State) {
-  if(PTT_State == LOW) {
-   daxOff();
-   delay(10);
-   pttOn();
-  } if(PTT_State == HIGH) {
-   pttOff();
+void loop(){   // put your main code here, to run repeatedly:
+   
+  if(PTT_State != PTT_Old_State) {
+    if(PTT_State == LOW) {
+      pttOn();
+    } if(PTT_State == HIGH) {
+      pttOff();
+    }
+      PTT_Old_State = PTT_State;
+   
   }
-   PTT_Old_State = PTT_State;
- }
-} 
+}  
 
 // Interrupt Service Routine (ISR)
 void switchISR () {
@@ -45,8 +45,3 @@ Serial.print("ZZTX0;");
 delay(10);
 PTT_State = digitalRead(PTT);
 }  
-//  Flex DAX Off command
-void daxOff(){
-  Serial.print("ZZDX0;"); 
-}
-
