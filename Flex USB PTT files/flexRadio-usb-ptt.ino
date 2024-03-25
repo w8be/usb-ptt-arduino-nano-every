@@ -17,7 +17,6 @@ void loop()
 {
     // put your main code here, to run repeatedly:
     debouncer.update();
-    // Serial.println("ZZAI;");
     if (debouncer.read() != PTT_State)
     {
         if (digitalRead(PTT) == LOW)
