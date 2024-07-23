@@ -9,4 +9,3 @@ Control Flex 6xxx radio push to talk (PTT) with CAT control via Arudino Nano Eve
 * Create a SmartCAT Serial Existing port for the USB foot switch.  Set the port protocol to 'CAT'.
 * Use an existing COM port that is connected to the Arduino Nano Every.
 * Use the log function on SmartCAT to see the communication or use Putty serial connection to test.
-* **[Flex USB PTT](https://github.com/w8be/usb-ptt-arduino-nano-every/tree/main)**
