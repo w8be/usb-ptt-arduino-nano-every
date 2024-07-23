@@ -1,7 +1,7 @@
 usb-ptt-arduino-nano-every
 ----------
 
-Control Flex 6xxx radio push to talk (PTT) with CAT control via Arudino Nano Every CAT commands.     
+Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control via Arudino Nano Every CAT commands.     
 ----------
 * Utilizes Flex Radio SmartCAT program configured for CAT.
 * Use pin D2 and Ground on the Arduino Nano Every to connect to the footswitch.  The Arduino Nano Every pin out can be found at **[Arduino Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.pdf)**   
