@@ -10,7 +10,7 @@ void setup()
     Serial.begin(115200);
     pinMode(PTT, INPUT_PULLUP);
     debouncer.attach(PTT);
-    debouncer.interval(200); // interval in ms
+    debouncer.interval(50); // interval in ms
 }
 
 void loop()
@@ -21,13 +21,11 @@ void loop()
     {
         if (digitalRead(PTT) == LOW)
         {
-            delay(100);
             Serial.println("ZZTX1;");
             PTT_State = 0;
         }
         else
         {
-            delay(100);
             Serial.println("ZZTX0;");
             PTT_State = 1;
             Serial.println("ZZTX0;");
