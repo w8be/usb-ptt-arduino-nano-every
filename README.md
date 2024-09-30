@@ -16,7 +16,8 @@ Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control via Arudino Nan
   "Name": "usbPtt",<br>
   "Protocol": "CAT" ,<br>
   "Port Type": "Serial",<br>
-  "Serial Port": "Existing","CAT COM": "use new port created for Arduino Nano Every" <br>
+  "Serial Port": "Existing",<br>
+  "CAT COM": "use new port created for Arduino Nano Every" <br>
 }
 
 *  Set the port protocol to 'CAT'. Name the new SmartSDR CAT port (i.e.,'usbPtt'). Use the logging function on SmartCAT  for testing.
