@@ -9,7 +9,8 @@ Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control via Arudino Nan
   
 * Arduino Nano Every sketch debounce timer is default set (50ms).  This can be adjusted if necessary.
 * USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.
-* Connect the footswitch usb to the pc.   The pc should see the device.  Note the number.  
+* Load the sketch using the Arduino IDE.  A COM port will be created. Note the number for configuration and testing.
+* Wire the footswitch to the Arduino Nano Every using pin D2 and Ground. You should now be able to test the footswitch with a terminal emulator (i.e.,"Putty"). 
 * Create a SmartCAT Serial Existing port for the USB foot switch using the Arduino Nano Every COM port.
   
   { <br>
@@ -20,5 +21,5 @@ Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control via Arudino Nan
     "CAT COM": "use new port created for Arduino Nano Every" <br>
   }
 
+* Connect the footswitch to the computer and test with the radio.  
 * Use the logging function on SmartCAT  for testing.
-* A terminal emulator (i.e.,"Putty") can be used for testing.
