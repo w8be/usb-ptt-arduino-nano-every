@@ -9,6 +9,6 @@ Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control via Arudino Nan
 * USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.
 * Connect the footswitch usb to the pc.   The pc should see the device.  Note the number.  
 * Create a SmartCAT Serial Existing port for the USB foot switch using the Arduino Nano Every COM port.
-* {"Name": "usbPtt",
-* "Protocol": "CAT" }
+ {"Name": "usbPtt",
+ "Protocol": "CAT" }
 *  Set the port protocol to 'CAT'. Name the new SmartSDR CAT port (i.e.,'usbPtt'). Use the logging function on SmartCAT  for testing.
