@@ -8,7 +8,7 @@ Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control via Arudino Nan
 * Arduino Nano Every sketch debounce timer is default set (50ms).  This can be adjusted if necessary.
 * USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.
 * A COM port will be created when loading the sketch with the **[Arduino IDE](https://www.arduino.cc/en/software)**. Note the number for configuration and testing.
-* You should now be able to test the footswitch with a terminal emulator (i.e.,"Putty"). 
+* A terminal emulator (i.e.,"Putty") can now be used for testing.
 
 * Use pin D2 and Ground on the Arduino Nano Every to connect to the footswitch.  Use the **[Arduino Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.pdf)** for reference.
 
