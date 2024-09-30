@@ -10,7 +10,7 @@ void setup()
     Serial.begin(115200);
     pinMode(PTT, INPUT_PULLUP);
     debouncer.attach(PTT);
-    debouncer.interval(50); // interval in ms
+    debouncer.interval(50); // interval in ms adjust as needed
 }
 
 void loop()
@@ -21,14 +21,16 @@ void loop()
     {
         if (digitalRead(PTT) == LOW)
         {
+            //send xmit on
             Serial.println("ZZTX1;");
             PTT_State = 0;
         }
         else
         {
+            // send xmit off twice
             Serial.println("ZZTX0;");
             PTT_State = 1;
             Serial.println("ZZTX0;");
-        } // just in case radio missing it
+        } 
     }
 }
