@@ -7,7 +7,7 @@
 ----------
 Utilizes Flex Radio SmartCAT interfaced to an Arduino Nano Every microcontroller wired to a switch(i.e,footswitch).Depressing the switch sends a MOX on command and when released a MOX off command is sent to the radio. 
 ***
-A COM port will be created when loading the **[sketch](https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/Flex%20USB%20PTT%20files/flexRadio-usb-ptt.ino)** with the **[Arduino IDE](https://www.arduino.cc/en/software)**. <br>Note the number for configuration and testing.<br>
+Load the **[sketch](https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/Flex%20USB%20PTT%20files/flexRadio-usb-ptt.ino)** with the **[Arduino IDE](https://www.arduino.cc/en/software)**. <br> A COM port will be created.  Note the number for configuration and testing.<br>
 Arduino Nano Every sketch debounce timer is default set (50ms).  This can be adjusted if necessary.<br>
 USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.  
 A terminal emulator (i.e.,**[Putty](https://www.putty.org/))** can be used for testing.
