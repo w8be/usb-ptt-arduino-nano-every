@@ -3,7 +3,7 @@
 ----------
 <h2>Control Flex Radio 6xxx/8xxx radio push to talk (PTT) with CAT control using a Arduino Nano Every to send CAT commands to the Radio. </h2>  
 
-<img src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEvery.jpg?raw=true"></src>
+<img src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEvery.jpg?raw=true" width="60%" height="60%"></img>
 ----------
 Utilizes Flex Radio SmartCAT interfaced to an Arduino Nano Every microcontroller wired to a switch(i.e,footswitch).Depressing the switch sends a MOX on command and when released a MOX off command is sent to the radio. 
 ***
