@@ -1,7 +1,7 @@
-<h2>usb-ptt-arduino-nano-every</h2>
+<h1>usb-ptt-arduino-nano-every</h1>
 
 ----------
-Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control using a Arudino Nano Every to send CAT commands to the Radio.    
+<h2>Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control using a Arudino Nano Every to send CAT commands to the Radio. </h2>  
 
 <img src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEvery.jpg?raw=true"></src>
 ----------
