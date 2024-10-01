@@ -17,12 +17,13 @@
 
 * A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin. This pin will connect to the normally open switch on your switch.
 
-<img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt1.jpg?raw=true"></img>
   
 * Wire the ground pin on the Nano to the ground or common terminal on your switch
 
 * Create a **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-guide-pdf/)** Serial Existing port for the USB foot switch using the Arduino Nano Every COM port.
-  
+
+<img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt1.jpg?raw=true"></img>
+
   { <br>
     "Name": "usbPtt",<br>
     "Protocol": "CAT" ,<br>
@@ -30,7 +31,9 @@
     "Serial Port": "Existing",<br>
     "CAT COM": "use new port created for Arduino Nano Every" <br>
   }
-  <img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt1.jpg?raw=true"></img>
+
+<img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt2.jpg?raw=true"></img>
+
 * Connect the footswitch to the computer and test with the radio.  
 * Use the logging function on SmartCAT  for testing.
 
