@@ -1,4 +1,4 @@
-usb-ptt-arduino-nano-every
+<h2>usb-ptt-arduino-nano-every</h2>
 
 ----------
 Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control using a Arudino Nano Every to send CAT commands to the Radio.    
