@@ -8,7 +8,7 @@
 Utilizes Flex Radio SmartCAT interfaced to an Arduino Nano Every microcontroller wired to a switch(i.e,footswitch).Depressing the switch sends a MOX on command and when released a MOX off command is sent to the radio. 
 ***
 Load the **[sketch](https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/Flex%20USB%20PTT%20files/flexRadio-usb-ptt.ino)** with the **[Arduino IDE](https://www.arduino.cc/en/software)**. <br> A COM port will be created.  Note the number for configuration and testing.<br>
-![image](https://github.com/user-attachments/assets/b575aa30-99e3-49eb-a5a0-eddcd8cc1dd9)
+<img src="https://raw.githubusercontent.com/w8be/usb-ptt-arduino-nano-every/refs/heads/main/arduinoIde.jpg" 
 
 Arduino Nano Every sketch debounce timer is default set (50ms).  This can be adjusted if necessary.<br>
 USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.  
@@ -22,7 +22,7 @@ A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin.<br>
 Connect pin D2 to the normally open terminal on the foot switch.<br> 
 Wire the ground pin on the Nano to the ground or common terminal on your switch.<br>
  
-<img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEveryWiring.jpg?raw=true"></img>
+<img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEveryWiring.jpg?raw=true" width="40%" height="40%"></img>
 ***
 
 Create a **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-guide-pdf/)** Serial Existing port for the USB foot switch using the Arduino Nano Every COM port.
