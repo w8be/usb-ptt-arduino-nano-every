@@ -30,7 +30,7 @@
     "Serial Port": "Existing",<br>
     "CAT COM": "use new port created for Arduino Nano Every" <br>
   }
-
+ing src = "https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt1.jpg?raw=true"></img>
 * Connect the footswitch to the computer and test with the radio.  
 * Use the logging function on SmartCAT  for testing.
 
