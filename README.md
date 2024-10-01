@@ -34,8 +34,7 @@ Create a **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-
 <img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt2.jpg?raw=true"></img>
 
 ***
-Connect the footswitch to the computer and test with the radio.  
- Use the logging function on SmartCAT  for testing.
+Connect the footswitch to the computer and test with the radio.  Use the logging function on SmartCAT  for testing.
  
 Example CAT Command to turn on MOX:<br>
 > &nbsp;&nbsp;2024-10-01 14:24:15.328 COM4 [rcvd]: ZZ<br>
