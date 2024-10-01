@@ -38,8 +38,8 @@ Connect the footswitch to the computer and test with the radio.
  Use the logging function on SmartCAT  for testing.
  
 Example CAT Command to turn on MOX:<br>
-&nbsp;&nbsp;>2024-10-01 14:24:15.328 COM4 [rcvd]: ZZ
-  &nbsp;&nbsp;>2024-10-01 14:24:15.331 COM4 [rcvd]: TX1;
+> &nbsp;&nbsp;2024-10-01 14:24:15.328 COM4 [rcvd]: ZZ
+> &nbsp;&nbsp;2024-10-01 14:24:15.331 COM4 [rcvd]: TX1;
   
 Example CAT Command to turn off MOX:<br>
 &nbsp;&nbsp;2024-10-01 14:24:15.707 COM4 [rcvd]: ZZ
