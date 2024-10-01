@@ -1,5 +1,7 @@
 <h1>usb-ptt-arduino-nano-every</h1>
 
+<img src="https://raw.githubusercontent.com/w8be/usb-ptt-arduino-nano-every/refs/heads/main/NanoEvery.jpg" width="50%" height="50%">
+
 ----------
 <h2>Control Flex Radio 6xxx/8xxx radio push to talk (PTT) with CAT control using a Arduino Nano Every to send CAT commands to the Radio. </h2>  
 
