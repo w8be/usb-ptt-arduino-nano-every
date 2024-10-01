@@ -11,7 +11,7 @@ Load the **[sketch](https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main
 Arduino Nano Every sketch debounce timer is default set (50ms).  This can be adjusted if necessary.<br>
 USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.  
 
-<img  src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/com4Properties.jpg?raw=true"  width="75%" height="75%"></img>
+<img  src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/com4Properties.jpg?raw=true"  width="35%" height="35%"></img>
 A terminal emulator (i.e.,**[Putty](https://www.putty.org/))** can be used for testing.
 ***
 Use pin D2 and Ground on the Arduino Nano Every to connect to the footswitch.  Use the **[Arduino Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.pdf)** for reference.<br>
