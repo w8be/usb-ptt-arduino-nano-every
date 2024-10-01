@@ -9,15 +9,12 @@ Utilizes Flex Radio SmartCAT program configured for CAT.
 ***
 A COM port will be created when loading the **[sketch](https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/Flex%20USB%20PTT%20files/flexRadio-usb-ptt.ino)** with the **[Arduino IDE](https://www.arduino.cc/en/software)**. <br>Note the number for configuration and testing.<br>
 Arduino Nano Every sketch debounce timer is default set (50ms).  This can be adjusted if necessary.<br>
-USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.
-  
+USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.  
 A terminal emulator (i.e.,**[Putty](https://www.putty.org/))** can be used for testing.
 ***
-Use pin D2 and Ground on the Arduino Nano Every to connect to the footswitch.  Use the **[Arduino Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.pdf)** for reference.
-
- A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin. This pin will connect to the normally open terminal on the foot switch.
-  
- Wire the ground pin on the Nano to the ground or common terminal on your switch
+Use pin D2 and Ground on the Arduino Nano Every to connect to the footswitch.  Use the **[Arduino Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.pdf)** for reference.<br>
+ A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin. This pin will connect to the normally open terminal on the foot switch.<br>  
+ Wire the ground pin on the Nano to the ground or common terminal on your switch.<br>
 
 <img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEveryWiring.jpg?raw=true"></img>
 ***
