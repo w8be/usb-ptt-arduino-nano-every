@@ -15,7 +15,7 @@
 
 * Use pin D2 and Ground on the Arduino Nano Every to connect to the footswitch.  Use the **[Arduino Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.pdf)** for reference.
 
-* A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin. This pin will connect to the normally open switch on your switch.
+* A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin. This pin will connect to the normally open terminals on the foot switch.
   
 * Wire the ground pin on the Nano to the ground or common terminal on your switch
 
