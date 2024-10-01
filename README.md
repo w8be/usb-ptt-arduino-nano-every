@@ -7,7 +7,7 @@
 ----------
 * Utilizes Flex Radio SmartCAT program configured for CAT.
 
-* A COM port will be created when loading the sketch with the **[Arduino IDE](https://www.arduino.cc/en/software)**. Note the number for configuration and testing.
+* A COM port will be created when loading the **[sketch](https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/Flex%20USB%20PTT%20files/flexRadio-usb-ptt.ino)** with the **[Arduino IDE](https://www.arduino.cc/en/software)**. Note the number for configuration and testing.
 * Arduino Nano Every sketch debounce timer is default set (50ms).  This can be adjusted if necessary.
 * USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.
   
