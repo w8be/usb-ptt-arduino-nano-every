@@ -35,7 +35,7 @@ Create a **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-
 
 ***
 Connect the footswitch to the computer and test with the radio.  
- Use the logging function on SmartCAT  for testing.
+ Use the logging function on SmartCAT  for testing.<br>
 Example CAT Command to turn on MOX:<br>
 <code>2024-10-01 14:24:15.328 COM4 [rcvd]: ZZ
   2024-10-01 14:24:15.331 COM4 [rcvd]: TX1;</code><br>
