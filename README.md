@@ -18,6 +18,7 @@ Use pin D2 and Ground on the Arduino Nano Every to connect to the footswitch.  U
 
 <img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEveryWiring.jpg?raw=true"></img>
 ***
+
 Create a **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-guide-pdf/)** Serial Existing port for the USB foot switch using the Arduino Nano Every COM port.
 
 <img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt1.jpg?raw=true"></img>
@@ -47,3 +48,5 @@ Example CAT Command to turn off MOX:<br>
 <img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/raw/main/usbpttarduinonanoevery2%20(1).jpg?raw=true"></img>
 
 <img src = "https://github.com/user-attachments/assets/4e6c2c09-fb3d-4c18-9a87-f6d7b8926a3d"></img>
+
+***
