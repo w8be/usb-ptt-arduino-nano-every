@@ -26,11 +26,11 @@
 <img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt1.jpg?raw=true"></img>
 
   { <br>
-    "Name": "usbPtt",<br>
-    "Protocol": "CAT" ,<br>
-    "Port Type": "Serial",<br>
-    "Serial Port": "Existing",<br>
-    "CAT COM": "use new port created for Arduino Nano Every" <br>
+      "Name": "usbPtt",<br>
+      "Protocol": "CAT" ,<br>
+      "Port Type": "Serial",<br>
+      "Serial Port": "Existing",<br>
+      "CAT COM": "use new port created for Arduino Nano Every" <br>
   }
 
 <img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt2.jpg?raw=true"></img>
