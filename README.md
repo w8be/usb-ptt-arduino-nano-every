@@ -14,6 +14,7 @@ Load the **[sketch](https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main
 <img src="https://raw.githubusercontent.com/w8be/usb-ptt-arduino-nano-every/refs/heads/main/arduinoIde.jpg" width="35%" height="35%"></img>
 
 Arduino Nano Every sketch debounce timer is default set (50ms).  This can be adjusted if necessary.<br>
+
 USB port speed is set to 115200.  Ensure your usb device in Device Manager is set to 115200.  
 
 <img  src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/com4Properties.jpg?raw=true"  width="35%" height="35%"></img>
