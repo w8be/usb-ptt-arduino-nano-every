@@ -17,7 +17,7 @@
 
 * A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin. This pin will connect to the normally open switch on your switch.
 
-  <img src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEveryWiring.jpg?raw=true"></src>
+  <img src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEveryWiring.jpg?raw=true"></img>
   
 * Wire the ground pin on the Nano to the ground or common terminal on your switch
 
