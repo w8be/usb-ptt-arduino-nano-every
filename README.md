@@ -25,8 +25,6 @@
 
 <img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt1.jpg?raw=true"></img>
 
-<img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt2.jpg?raw=true"></img>
-
   { <br>
     "Name": "usbPtt",<br>
     "Protocol": "CAT" ,<br>
@@ -34,6 +32,8 @@
     "Serial Port": "Existing",<br>
     "CAT COM": "use new port created for Arduino Nano Every" <br>
   }
+
+<img src ="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/usbptt2.jpg?raw=true"></img>
 
 
 * Connect the footswitch to the computer and test with the radio.  
