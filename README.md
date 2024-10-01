@@ -25,7 +25,7 @@ A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin.<br>
 Connect pin D2 to the normally open terminal on the foot switch.<br> 
 Wire the ground pin on the Nano to the ground or common terminal on your switch.<br>
  
-<img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEveryWiring.jpg?raw=true" width="40%" height="40%"></img>
+<img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/NanoEveryWiring.jpg?raw=true" width="60%" height="60%"></img>
 ***
 
 Create a **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-guide-pdf/)** Serial Existing port for the USB foot switch using the Arduino Nano Every COM port.
