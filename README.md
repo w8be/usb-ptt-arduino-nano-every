@@ -30,4 +30,5 @@ Control Flex 6xxx/8xxx radio push to talk (PTT) with CAT control using a Arudino
 * Connect the footswitch to the computer and test with the radio.  
 * Use the logging function on SmartCAT  for testing.
 
-* <img>https://us.v-cdn.net/6032377/uploads/89NZ0FHAEM6S/usbpttarduinonanoevery2.jpg</img>
+
+<img src=" https://us.v-cdn.net/6032377/uploads/89NZ0FHAEM6S/usbpttarduinonanoevery2.jpg >" alt="footswitch">
