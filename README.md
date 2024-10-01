@@ -37,3 +37,5 @@
   
 
 <img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/raw/main/usbpttarduinonanoevery2%20(1).jpg?raw=true"></img>
+
+<img src = "https://github.com/user-attachments/assets/4e6c2c09-fb3d-4c18-9a87-f6d7b8926a3d"></img>
