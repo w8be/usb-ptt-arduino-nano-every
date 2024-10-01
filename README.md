@@ -45,7 +45,8 @@ Example CAT Command to turn off MOX:<br>
 > &nbsp;&nbsp;2024-10-01 14:24:15.707 COM4 [rcvd]: ZZ<br>
 > &nbsp;&nbsp;2024-10-01 14:24:15.709 COM4 [rcvd]: TX0;<br>
 > &nbsp;&nbsp;ZZTX0;
-  
+
+ ***
 
 <img src = "https://github.com/w8be/usb-ptt-arduino-nano-every/raw/main/usbpttarduinonanoevery2%20(1).jpg?raw=true"></img>
 
