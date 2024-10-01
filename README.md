@@ -19,7 +19,8 @@ USB port speed is set to 115200.  Ensure your usb device in Device Manager is se
 
 <img  src="https://github.com/w8be/usb-ptt-arduino-nano-every/blob/main/com4Properties.jpg?raw=true"  width="35%" height="35%"></img>
 
-A terminal emulator (i.e.,**[Putty](https://www.putty.org/))** can be used for testing.
+
+Test with the Arduino IDE Serial Montior or a terminal emulator (i.e.,**[Putty](https://www.putty.org/))** can be used for testing.
 ***
 Use pin D2 and Ground on the Arduino Nano Every to connect to the footswitch.  Use the **[Arduino Nano Every Pinout](https://content.arduino.cc/assets/Pinout-NANOevery_latest.pdf)** for reference.<br>
 A 1K resistor is used as a pullup resistor from the 3.3v pin to the D2 pin.<br>
