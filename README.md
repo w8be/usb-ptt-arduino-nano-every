@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/w8be/usb-ptt-arduino-nano-every/refs/heads/main/NanoEvery.jpg" width="30%" height="30%">
 
 ----------
-<h1>Control Flex Radio 6xxx/8xxx radio push to talk (PTT) with **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-guide-pdf)** 
-using a **[Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every?srsltid=AfmBOorS-jerpAcD8xGCUWRznp4vSYjQjUFJY2PZsMW1_JuKi6q4A6WE)** to send CAT commands to the Radio.</h1>
+Control Flex Radio 6xxx/8xxx radio push to talk (PTT) with **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-guide-pdf)** 
+using a **[Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every?srsltid=AfmBOorS-jerpAcD8xGCUWRznp4vSYjQjUFJY2PZsMW1_JuKi6q4A6WE)** to send CAT commands to the Radio.
 
 
 ----------
