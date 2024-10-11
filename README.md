@@ -1,4 +1,4 @@
-<h1>Flex Radio SmartCAT ptt-arduino-nano-every</h1>
+<h1>Flex Radio SmartCAT PTT with Arduino Nano Every</h1>
 
 <img src="https://raw.githubusercontent.com/w8be/usb-ptt-arduino-nano-every/refs/heads/main/NanoEvery.jpg" width="30%" height="30%">
 
