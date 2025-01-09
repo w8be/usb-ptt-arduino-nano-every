@@ -4,7 +4,7 @@
 
 ----------
 Control **[Flex Radio](https://www.flexradio.com/)** 6xxx/8xxx radio push to talk (PTT) with **[SmartCAT](https://www.flexradio.com/documentation/smartsdr-cat-user-guide-pdf)** 
-using a **[Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every?srsltid=AfmBOorS-jerpAcD8xGCUWRznp4vSYjQjUFJY2PZsMW1_JuKi6q4A6WE)** to send CAT commands to the Radio.
+using a **[Arduino Nano Every](https://store.arduino.cc/products/arduino-nano-every?srsltid=AfmBOorS-jerpAcD8xGCUWRznp4vSYjQjUFJY2PZsMW1_JuKi6q4A6WE)** to send **[CAT](https://en.wikipedia.org/wiki/Computer_aided_transceiver)** commands to the Radio.
 
 
 ----------
