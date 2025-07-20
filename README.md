@@ -1,5 +1,5 @@
 <h1>Flex Radio SmartCAT PTT (push to talk) with Arduino Nano Every</h1> 
-
+<a href="https://github.com/w8be/usb-ptt-arduino-nano-every/wiki/Wiki---usb-ptt-artduino-nano-every">Wiki</a>
 <img src="https://raw.githubusercontent.com/w8be/usb-ptt-arduino-nano-every/refs/heads/main/NanoEvery.jpg" width="30%" height="30%">
 
 ----------
