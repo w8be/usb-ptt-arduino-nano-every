@@ -21,13 +21,13 @@ void loop()
     {
         if (digitalRead(PTT) == LOW)
         {
-            //send xmit on
+            //send MOX on
             Serial.println("ZZTX1;");
             PTT_State = 0;
         }
         else
         {
-            // send xmit off twice
+            // send MOX off twice
             Serial.println("ZZTX0;");
             PTT_State = 1;
             Serial.println("ZZTX0;");
